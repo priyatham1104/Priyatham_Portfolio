@@ -10,7 +10,7 @@ Some Interesting Works
 ![image for github](https://user-images.githubusercontent.com/44200352/132849018-c58cf589-4cfd-4003-8aa9-06a22828e5df.png)
 
 
-# [Project 2: Rock Paper scissors Spock Lizard](https://github.com/priyatham1104/Face-mask-detection)
+# [Project 2: Rock Paper scissors Spock Lizard](https://github.com/priyatham1104/Rock-Paper-scissors-spock-lizard)
 1. A fun game to play with image classigfication.
 2. Use Open CV to obtain images into 5 cateogries 
     a. lizard
