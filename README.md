@@ -25,5 +25,7 @@ Some Interesting Works
 
 # [Project 3: Transfer Learning for Image Classification](https://github.com/priyatham1104/Transfer-Learning-for-image-classification)
 1. A small project that uses inception network and the concept of transfer learning to classify clients of receipts.
+![image](https://user-images.githubusercontent.com/44200352/132863204-f1083b23-8526-40fb-b3bb-93b47e539cf3.png)
+
 
 
